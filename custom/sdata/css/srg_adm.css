@@ -1,0 +1,15 @@
+.main{
+position: absolute;
+top: 20%;
+left: 45%;	
+}
+.inputPin{
+font-size: 70px;
+text-align: center;
+}
+#list>tbody>tr>td{
+	border:solid 2px;
+}
+.heading{
+text-align: center;
+}
