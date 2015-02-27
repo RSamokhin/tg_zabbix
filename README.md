@@ -1,4 +1,7 @@
 * php_js_zabbix_rnet_mon - web interface for zabbix monitoring dashboard
+* meved from https://github.com/RSamokhin/done/tree/master/php_js_zabbix_rnet_mon 
+* now is more actual
+
 
 1. yum install git
 2. yum install nano
